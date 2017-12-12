@@ -9,3 +9,6 @@ build/**
 bower_components/**
 skins/*/*.css
 styles/contents.css
+/.buildpath
+/.project
+/.settings/
